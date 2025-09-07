@@ -9,6 +9,9 @@ A solução implementa uma **Smart Lamp** capaz de:
 - Receber comandos de ligar/desligar LED (cloud → edge).  
 - Operar via IoT Agent MQTT integrado ao Orion.  
 
+- [🎥 Vídeo](https://youtu.be/61FbGWzgFMU) – demonstração do envio de dados de luminosidade e comando de ligar/desligar LED via Postman.  
+- [🔗 Wokwi Simulation](https://wokwi.com/projects/441395890230460417)
+  
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -69,15 +72,13 @@ Principais requisições:
 
 ## 📺 Evidências
 
-- [🎥 Vídeo Time-lapse (3min)](link_para_o_video) – demonstração do envio de dados de luminosidade e comando de ligar/desligar LED via Postman.  
+- [🎥 Vídeo](https://youtu.be/61FbGWzgFMU) – demonstração do envio de dados de luminosidade e comando de ligar/desligar LED via Postman.  
 - [🔗 Wokwi Simulation](https://wokwi.com/projects/441395890230460417)
 
+<img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/ae392a56-7f73-4086-97ae-5a46e331c12b" />
 <img width="1161" height="592" alt="image" src="https://github.com/user-attachments/assets/24fab67b-6ec9-4d53-90df-403426d83496" />
-
 <img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/bcb82bda-37a4-4407-b8c6-63f8c470b77d" />
-
 <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/e1279ae5-1b29-491a-927d-d2ccbdf4571a" />
-
 <img width="1163" height="662" alt="image" src="https://github.com/user-attachments/assets/253b114e-bcb6-4889-a16f-50cfdc7f56a3" />
 
 ---
