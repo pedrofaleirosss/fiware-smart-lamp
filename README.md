@@ -78,6 +78,8 @@ Principais requisições:
 
 <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/e1279ae5-1b29-491a-927d-d2ccbdf4571a" />
 
+<img width="1163" height="662" alt="image" src="https://github.com/user-attachments/assets/253b114e-bcb6-4889-a16f-50cfdc7f56a3" />
+
 ---
 
 ## 👨‍💻 Autores
