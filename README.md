@@ -9,8 +9,9 @@ A solução implementa uma **Smart Lamp** capaz de:
 - Receber comandos de ligar/desligar LED (cloud → edge).  
 - Operar via IoT Agent MQTT integrado ao Orion.  
 
-- [🎥 Vídeo](https://youtu.be/61FbGWzgFMU) – demonstração do envio de dados de luminosidade e comando de ligar/desligar LED via Postman.  
-- [🔗 Wokwi Simulation](https://wokwi.com/projects/441395890230460417)
+📺 [Visualizar Explicação do Projeto no YouTube](https://youtu.be/61FbGWzgFMU)
+
+👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/441395890230460417)
   
 ---
 
@@ -72,18 +73,39 @@ Principais requisições:
 
 ## 📺 Evidências
 
-- [🎥 Vídeo](https://youtu.be/61FbGWzgFMU) – demonstração do envio de dados de luminosidade e comando de ligar/desligar LED via Postman.  
-- [🔗 Wokwi Simulation](https://wokwi.com/projects/441395890230460417)
+📺 [Visualizar Explicação do Projeto no YouTube](https://youtu.be/61FbGWzgFMU)
+
+👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/441395890230460417)
+
+### Máquina Virtual no Azure
+Tela do portal do Microsoft Azure mostrando a máquina virtual utilizada para hospedar os containers do FIWARE, com especificações de sistema operacional, tamanho e rede.
 
 <img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/ae392a56-7f73-4086-97ae-5a46e331c12b" />
+
+### Containers FIWARE rodando na VM
+Acesso ao terminal da VM via SSH, mostrando os comandos docker-compose up -d e o status dos containers do FIWARE, incluindo Orion Context Broker, IoT Agent MQTT e STH-Comet.
+
 <img width="1161" height="592" alt="image" src="https://github.com/user-attachments/assets/24fab67b-6ec9-4d53-90df-403426d83496" />
+
+
+### Simulação do ESP32 com LDR no Wokwi
+Simulação do projeto Smart Lamp no Wokwi, mostrando o ESP32 conectado ao sensor LDR e o LED onboard, com valores de luminosidade sendo exibidos em tempo real no Serial Monitor.
+
 <img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/bcb82bda-37a4-4407-b8c6-63f8c470b77d" />
+
+### Testes de API no Postman
+Exibição da coleção FIWARE Descomplicado no Postman, demonstrando requisições de provisionamento de dispositivo, consulta de luminosidade e envio de comandos para ligar/desligar o LED.
+
 <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/e1279ae5-1b29-491a-927d-d2ccbdf4571a" />
+
+### Desligando containers do FIWARE
+Terminal da VM mostrando o comando docker-compose down para interromper e remover os containers FIWARE ao final da execução do projeto.
+
 <img width="1163" height="662" alt="image" src="https://github.com/user-attachments/assets/253b114e-bcb6-4889-a16f-50cfdc7f56a3" />
 
 ---
 
-## 👨‍💻 Autores
+## 👨‍💻 Integrantes
 
 - Pedro Alves Faleiros - 562523  
 - Luan Felix - 565541  
