@@ -9,9 +9,9 @@ A solução implementa uma **Smart Lamp** capaz de:
 - Receber comandos de ligar/desligar LED (cloud → edge).  
 - Operar via IoT Agent MQTT integrado ao Orion.  
 
-📺 [Visualizar Explicação do Projeto no YouTube](https://youtu.be/61FbGWzgFMU)
+📺 [Visualizar Explicação do Projeto no YouTube](https://youtube.com)
 
-👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/441395890230460417)
+👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/442202130178019329)
   
 ---
 
